@@ -12336,3 +12336,4 @@ Already up to date.
 [INFO 2024-10-31_14:56:04] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-AssignProject-f1fd.py
 [INFO 2024-10-31_14:57:01] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-AssignProject-f1fd.py
 [INFO 2024-10-31_14:59:56] {'name': ['Project with slug "assignproject-f1fd" already exists.']}
+[ERROR 2024-10-31_21:39:24] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-AssignProject-f1fd.py 'StreamTopicDetails'
