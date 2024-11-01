@@ -12381,3 +12381,4 @@ origin	https://<personal access token hidden>@github.com/Dynamo7001/raspberrypi.
 [INFO 2024-11-01_01:57:19] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-TMLProject2-f1fd.py
 [INFO 2024-11-01_01:57:32] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-TMLProject2-f1fd.py
 [INFO 2024-11-01_01:58:10] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-TMLProject2-f1fd.py
+[INFO 2024-11-01_01:58:22] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-TMLProject2-f1fd.py
