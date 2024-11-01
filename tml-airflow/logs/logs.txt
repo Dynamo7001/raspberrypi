@@ -12413,3 +12413,4 @@ origin	https://<personal access token hidden>@github.com/Dynamo7001/raspberrypi.
 [INFO 2024-11-01_20:49:15] Visualization DAG in tml_system_step_7_kafka_visualization_dag-TMLProject2-f1fd.py
 [INFO 2024-11-01_20:49:37] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-TMLProject2-f1fd.py
 [INFO 2024-11-01_20:50:25] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-TMLProject2-f1fd.py
+[INFO 2024-11-01_20:53:14] {'name': ['Project with slug "tmlproject2-f1fd" already exists.']}
