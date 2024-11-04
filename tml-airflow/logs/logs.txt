@@ -12480,3 +12480,4 @@ origin	https://<personal access token hidden>@github.com/Dynamo7001/raspberrypi.
 [INFO 2024-11-04_19:55:02] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-TMLCyber-f1fd.py
 [INFO 2024-11-04_19:56:20] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-TMLCyber-f1fd.py
 [ERROR 2024-11-04_19:56:25] Deploying to Docker in tml_system_step_8_deploy_solution_to_docker_dag-TMLCyber-f1fd.py
+[INFO 2024-11-04_19:58:56] {'name': ['Project with slug "tmlcyber-f1fd" already exists.']}
