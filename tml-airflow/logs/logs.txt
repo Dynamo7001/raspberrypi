@@ -12472,3 +12472,4 @@ origin	https://<personal access token hidden>@github.com/Dynamo7001/raspberrypi.
 [INFO 2024-11-04_19:52:46] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-TMLCyber-f1fd.py
 [INFO 2024-11-04_19:52:57] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-TMLCyber-f1fd.py
 [INFO 2024-11-04_19:53:08] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-TMLCyber-f1fd.py
+[INFO 2024-11-04_19:53:20] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-TMLCyber-f1fd.py
